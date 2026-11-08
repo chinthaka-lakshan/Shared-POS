@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+
+# Client builds & dependencies
+pos-client/release/
+pos-client/dist/
+pos-client/dist-electron/
+pos-client/node_modules/
+
+# Backend dependencies & environment
+pos-backend/vendor/
+pos-backend/.env
+pos-backend/storage/*.key
